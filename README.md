@@ -43,16 +43,18 @@ t: translation of epithet
 k: type of translation
 
 kt: motif of the type of translation
-#### action
-It should either be the verbal sentence next to the figure of Isis (and also next to the epithet strings) or the verbal sentence inside of the dvine column
-If there is no such verbal descriptions, then the fields for action is left with ∅.
-{
-          "a": "dj =j n =k nswy.t n z#a =j, #hr-b#hd.tj  (I give the kingship to my son, Horus-Behdety)",
-          "at": "giving kingship"
-        }
 
-a: transliteration of the action
-at: motif of the action
+  #### action
+  It should either be the verbal sentence next to the figure of Isis (and also next to the epithet strings) or the verbal sentence inside of the dvine column
+  If there is no such verbal descriptions, then the fields for action is left with ∅.
+  {
+            "a": "dj =j n =k nswy.t n z#a =j, #hr-b#hd.tj  (I give the kingship to my son, Horus-Behdety)",
+            "at": "giving kingship"
+          }
+  
+  a: transliteration of the action
+  
+  at: motif of the action
 
   ## Bibliography
   ### Source inscriptions
