@@ -57,13 +57,21 @@ at: motif of the action
   ## Bibliography
   ### Source inscriptions
   D I = Chassinat, Émile 1934. Le temple de Dendara: tome premieri. Le Caire: Imprimerie de l'Institut français d'archéologie orientale
+  
   D Mammisis = Daumas, François 1959. Les mammisis de Dendara. Publications de l'Institut Français d'Archéologie Orientale. La Caire: Institut Français d'Archéologie Orientale
+  
   Dendera, le Temple d'Isis = Cauville, Sylvie 2007. Dendara: le temple d'Isis, 2 vols. Kairo: Institut Français d'Archéologie Orientale
+  
   DC = Zivie-Coche, Christiane 2023. Le temple de Deir Chelouit V. Temples; Chelouit 5. Le Caire: Institut Français d'Archéologie Orientale
-  Kalabchah = Gauthier, Henri 1911-1914. Le temple de Kalabchah, 2 vols. Les temples immergés de la Nubie. Le Caire: Institut français d'archéologie orientale.
-  Philae Benedite = Bénédite, Georges 1893-1895. Le temple de Philæ. Mémoires publiés par les membres de la Mission Archéologique Française au Caire 13 (1-2). Paris: Ernest Leroux. Description et histoire de l'île de Philæ. Première partie: textes hiéroglyphiques. 
+  
+  Kalabchah = Gauthier, Henri 1911-1914. Le temple de Kalabchah, 2 vols. Les temples immergés de la Nubie. Le Caire: Institut français d'archéologie orientale
+  
+  Philae Benedite = Bénédite, Georges 1893-1895. Le temple de Philæ. Mémoires publiés par les membres de la Mission Archéologique Française au Caire 13 (1-2). Paris: Ernest Leroux. Description et histoire de l'île de Philæ. Première partie: textes hiéroglyphiques
+  
   Philae, Birth house = Kockelmann, Holger and Erich Winter 2016. Philae III: Die zweite Ostkolonnade des Tempels der Isis in Philae (CO II und CO II K), 2 vols. Mit einem Beitrag von Shafia Bedier; Zeichnungen von Dr. Otto Daum, Irmtraud Noering, Ulrike Denis und Silke Caßor-Pfeiffer. Österreichische Akademie der Wissenschaften, Denkschriften der Gesamtakademie 78. Wien: Verlag der Österreichischen Akademie der Wissenschaften
   
+  
   Cauville, S. 1998. Dendara I: Traduction. Photographs by A. Lecler. Orientalia Lovaniensia Analecta 81. Leuven: Peeters
+  
   Cauville, Sylvie 2009. Dendara: le temple d'Isis, 2 vols. Orientalia Lovaniensia Analecta 178-179. Leuven: Peeters
 
