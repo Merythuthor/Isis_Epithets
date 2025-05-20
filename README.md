@@ -44,7 +44,8 @@ e: transliteration of epitihet
 t: translation of epithet
 ！！！Many of the translations are directly taken or translated from the existing translations listed in Bibliogrpahy.
 
-k: type of translation
+k: type of epithet
+！！！ the standard for categorification of the types of epithets and the realted Python code will be uploaded later.
 
 kt: motif of the type of translation
 
