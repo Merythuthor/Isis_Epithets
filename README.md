@@ -1,3 +1,4 @@
+This is a project presented as a poster for the conference of Una quae est omnia (?) Antike Universalreligionen im Spannungsfeld zwischen Lokalität und Überregionalität am Beispiel der Isis- und Osiris-Kulte
 # Repository structure
 
 - `LOGO_info_visualization/`  
@@ -5,6 +6,9 @@
 
 - `jaccard_bigrams_clustering_visualization/`  
   Cluster visualizations based on bigram Jaccard similarity
+
+- `Poster_What Can Epithet Strings Reveal.pdf`  
+  The poster
 
 - `annotation_isis_epithets.json`  
   Structured annotations of Isis epithets in JSON format
